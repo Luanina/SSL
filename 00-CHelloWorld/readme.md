@@ -1,3 +1,3 @@
-#compilador:
-#version:
-#version que compila:
+# compilador:
+# version:
+# version que compila:
