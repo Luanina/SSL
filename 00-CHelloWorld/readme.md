@@ -9,6 +9,6 @@
  # • Proceso de compilación.
  # • Pruebas.
  # Problema 
- Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
+  • Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
  # Restricciones 
- # • Usar la versión C23 del lenguaje C.
+  • Usar la versión C23 del lenguaje C.
