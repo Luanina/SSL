@@ -4,12 +4,12 @@
   • Creación de repositorio personal git. 
   • Armado de equipo de trabajo. 
  # Temas 
- # • Sistema de control de versiones. 
- # • Lenguaje de programación C.
- # • Proceso de compilación.
- # • Pruebas.
- # Problema 
-  • Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
+ • Sistema de control de versiones. 
+ • Lenguaje de programación C.
+ • Proceso de compilación.
+ • Pruebas.
+  # Problema 
+ • Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
  # Restricciones 
   • Usar la versión C23 del lenguaje C.
 
