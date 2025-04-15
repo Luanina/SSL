@@ -12,4 +12,9 @@
  • Adquirir y preparar los recursos necesarias para resolver los trabajos del curso. 
  # Restricciones 
   • Usar la versión C23 del lenguaje C.
+ # compilador seleccionado: MinGW
+ # la versión ese compilador: 14.2.0
+ # la versión de C que el compilador compila: C23
+
+  
 
